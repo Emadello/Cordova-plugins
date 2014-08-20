@@ -4,7 +4,7 @@ import org.apache.cordova.CordovaActivity;
 
 import android.os.Bundle;
 
-import com.Example.Package.R; // Chage this line to your original package src
+import com.Vibesnet.vibescdv.R;
 
 public class ModalActivity extends CordovaActivity
 {
