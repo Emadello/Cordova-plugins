@@ -8,11 +8,11 @@ How to Install
 	3.	Open ModalActivity.java, at Line 7 change the package src to yours
 	4.	In AndroidManifest.xml add the following under application tag:
 	
-	[CODE]<activity android:name="kr.co.purpleworks.cordova.modal.ModalActivity" />[/CODE]
+	<activity android:name="kr.co.purpleworks.cordova.modal.ModalActivity" />
 
 	5.	Open config.xml, add:
 	
-	[CODE]<plugin name="Modal" value="kr.co.purpleworks.cordova.modal.Modal" />[/CODE]
+	<plugin name="Modal" value="kr.co.purpleworks.cordova.modal.Modal" />
 
 You're Done!
 
